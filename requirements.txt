@@ -1,0 +1,7 @@
+flask
+numpy
+dicttoxml
+requests
+google-cloud-storage
+gunicorn==19.6.0
+opencv-python-headless
