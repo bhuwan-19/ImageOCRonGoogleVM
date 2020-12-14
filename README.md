@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is to extract the text from various kinds of images using Google Vision API.
+This project is to extract the Punjabi text from various kinds of images using Google Vision API.
 The storage for this module is in Google Cloud Storage, which contains up to 170,000 jpg files.
 This project is deployed in Google Cloud Virtual Machine using Flask.
 
